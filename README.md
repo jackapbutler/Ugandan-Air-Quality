@@ -1,5 +1,5 @@
 # Ugandan-Air-Quality
-- AirQo competition to predict air quality (as measured by PM2.5 µ/m3) in Kampala Uganda. 
+- AirQo competition to predict air quality (as measured by PM2.5 µ/m3) in Kampala, Uganda. 
 - Finished in top 50 places globally with an ExtraTreesRegressor model in scikit-learn.
 
 # Problem Overview
