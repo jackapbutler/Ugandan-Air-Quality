@@ -1,6 +1,6 @@
 # Ugandan-Air-Quality
 - AirQo competition to predict air quality (as measured by PM2.5 µ/m3) in Kampala Uganda. 
-- Finished in top 50 places with an ExtraTreesRegressor model in scikit-learn.
+- Finished in top 50 places globally with an ExtraTreesRegressor model in scikit-learn.
 
 # Problem Overview
 Until recently there has been a lack of data on air quality across sub-Saharan Africa. Reference grade monitors are extremely expensive and without access to data it is very difficult to raise awareness of the issues, or for government, business and individuals to know which actions to take to improve air quality and protect community health. AirQo has built a low-cost network of sensors and collected data across 65 locations in Uganda. We were given a variety of weather and geographical data to try and predict the level of PM2.5.
